@@ -1,6 +1,3 @@
--- mario_party_tracker.lua
-
--- === CONFIGURE THESE ===
 local ADDR = {
     turn    = 0x8029151C,  -- turn counter address
 
