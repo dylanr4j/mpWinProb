@@ -1,6 +1,3 @@
--- mario_party_tracker.lua
-
--- === CONFIGURE THESE ===
 local ADDR = {
     turn    = 0x8029151C,  -- turn counter address
 
@@ -13,7 +10,7 @@ local ADDR = {
 local TOTAL_TURNS = 15
 local TURNS_PATH  = "mario_party_log.csv"
 
--- === MODEL COEFFICIENTS (paste your actual trained values here) ===
+-- MODEL COEFFICIENTS -- 
 local W_TURNS_REMAINING = -0.04
 local W_STAR_DIFF       = 0.77
 local W_COIN_DIFF       = 0.0025
