@@ -3,6 +3,8 @@
 
 Given a player's star and coin counts relative to other players along with the turns remaining in the game, attempt to track a player's probability of winning.
 
+Substack Article: 
+
 ## About
 A Mario Party player makes a multitude of choices of the course of a game. The Win Probability tool attempts to help a player by making data-driven decisions. These insights can be instrumental in boosting a player's chances of winning.
 
